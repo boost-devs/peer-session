@@ -1,8 +1,8 @@
 ---
 name: 질문 템플릿
-about: Issue에 질문 등록 시 양식입니다!
+about: 질문 등록 양식입니다!
 title: "[닉네임] 질문 제목"
-labels: question
+labels: "❓ question"
 assignees: ''
 
 ---
