@@ -2,7 +2,7 @@
 name: TIP 템플릿
 about: TIP 작성 시 양식입니다!
 title: "[닉네임] TIP 제목"
-labels: tip
+labels: "🍯 tip"
 assignees: ''
 
 ---
